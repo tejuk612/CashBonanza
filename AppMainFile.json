@@ -1,7 +1,7 @@
 {
   "data" :  {
       "TODO:- 1)if ADS fail then redirect on URL, 2)if write Google then only show ads no URL show" : "",
-      "AD_Priority_ADS/URL": "URL",
+      "AD_Priority_ADS/URL": "ADS",
     
       "AD_Priority_Google_Applovin": "google",
   
@@ -35,13 +35,13 @@
       "VideoAd30_Id": "ca-app-pub-3940256099942544/5224354917",
       "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
       
-      "BannerAd_Id_Applovin": "05db2d18005177b2",
-      "MrecAd_Id_Applovin": "0ca37f2c026b4609",
-      "InterAd_Id_Applovin": "4c8c4ee383ec84af",
-      "NativeAd_Id_Small_Applovin": "f070f36a4bed9416",
-      "NativeAd_Id_Medium_Applovin": "7584937eca563dad",
-      "VideoAd_Id_Applovin": "05a8e7d1353777bb",
-      "AppOpen_Id_Applovin": "56f61342766c2fcf",
+      "BannerAd_Id_Applovin": "aad8d35977ff1172",
+      "MrecAd_Id_Applovin": "211a52dcd5760c3d",
+      "InterAd_Id_Applovin": "9b0aafe48345cd17",
+      "NativeAd_Id_Small_Applovin": "2fdf905526e0b567",
+      "NativeAd_Id_Medium_Applovin": "b698a5403d92a367",
+      "VideoAd_Id_Applovin": "1dad93d4d332bfd7",
+      "AppOpen_Id_Applovin": "f4797856d5d66119",
     
       "GamezopId": "https://u.theaddnews.com/zturtle/",
       "QurekaID": "https://u.theaddnews.com/zturtle/",

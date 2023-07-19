@@ -1,21 +1,21 @@
 {
-  "data" :  {
-      "AD_Priority_Google_Applovin" : "applovin",
+  "data":  {
+      "AD_Priority_Google_Applovin": "applovin",
     
-      "EveryTimeAdsFail_URL_OnOff" : "off",
+      "EveryTimeAdsFail_URL_OnOff": "off",
     
-      "AdsOnOff" : "on",  
-      "DoubleAds_OnOff" : "off",  
+      "AdsOnOff": "on",  
+      "DoubleAds_OnOff": "off",  
       "InterAd_Interval" : "1000", 
-      "RecycleAds_Position" : "4",
+      "RecycleAds_Position": "4",
     
-      "AppVersion_Update" : "2.2",  
+      "AppVersion_Update" : "1.0",  
     
-      "TransferBox_OnOff" : "off",  
-      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
+      "TransferBox_OnOff": "off",  
+      "TransferBox_AppPackageName": "orbut.vpn.secure.proxy", 
           
-      "email" : "reach@flawsometechnology.com",  
-      "privacyLink" : "https://sites.google.com/view/trashcandeleteddatarecover/privacy-policy",  
+      "email": "reach@flawsometechnology.com",  
+      "privacy_link": "https://sites.google.com/view/trashcandeleteddatarecover/privacy-policy",  
     
       "BannerAd_Id": "/21753324030,22831855031/deleted.photo_recover.video_recover_Banner",
       "InterAd_Id": "/21753324030,22831855031/deleted.photo_recover.video_recover_Interstitial",
@@ -44,24 +44,24 @@
       "AppBanner": 
       [
         {
-          "BannerURL":"https://static.gamezop.com/creatives/509f8e4f-936d-4e69-b242-06ef24e32570.png",
-          "BannerRedirectURL":"https://1078.set.qureka.com/"
+          "BannerURL": "https://static.gamezop.com/creatives/509f8e4f-936d-4e69-b242-06ef24e32570.png",
+          "BannerRedirectURL": "https://1078.set.qureka.com/"
         },
         {
-          "BannerURL":"https://static.gamezop.com/creatives/afc577b1-1e65-4c27-acc6-8471d695635d.png",
-          "BannerRedirectURL":"https://1078.set.qureka.com/"
+          "BannerURL": "https://static.gamezop.com/creatives/afc577b1-1e65-4c27-acc6-8471d695635d.png",
+          "BannerRedirectURL": "https://1078.set.qureka.com/"
         },
         {
-          "BannerURL":"https://static.gamezop.com/creatives/dcd86387-294b-4007-a54b-f37bffb0fe16.png",
-          "BannerRedirectURL":"https://1078.set.qureka.com/"
+          "BannerURL": "https://static.gamezop.com/creatives/dcd86387-294b-4007-a54b-f37bffb0fe16.png",
+          "BannerRedirectURL": "https://1078.set.qureka.com/"
         },
         {
-          "BannerURL":"https://static.gamezop.com/creatives/6e0ffea0-71bc-4bc0-85ea-85ccdcc28ccb.png",
-          "BannerRedirectURL":"https://1078.set.qureka.com/"
+          "BannerURL": "https://static.gamezop.com/creatives/6e0ffea0-71bc-4bc0-85ea-85ccdcc28ccb.png",
+          "BannerRedirectURL": "https://1078.set.qureka.com/"
         },
         {
           "BannerURL":"https://static.gamezop.com/creatives/711d836b-677d-4b9d-8873-ffce7cda85eb.png",
-          "BannerRedirectURL":"https://1078.set.qureka.com/"
+          "BannerRedirectURL": "https://1078.set.qureka.com/"
         }
       ],
     
@@ -73,27 +73,27 @@
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/a0cb179d-6100-4972-b7d2-9540556c3d2a.png",
-          "CircleRedirectLink":"https://1078.set.qureka.com/"
+          "CircleRedirectLink": "https://1078.set.qureka.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/6de0aff2-cb59-41dc-9278-631975ab5b14.gif",
-          "CircleRedirectLink":"https://1078.set.qureka.com/"
+          "CircleRedirectLink": "https://1078.set.qureka.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/66f06c6e-8f83-4819-9fcc-e00ce5d75be6.gif",
-          "CircleRedirectLink":"https://1078.set.qureka.com/"
+          "CircleRedirectLink": "https://1078.set.qureka.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/d1d66077-c354-4fdc-b611-6e54a6bd0ee3.png",
-          "CircleRedirectLink":"https://1078.set.qureka.com/"
+          "CircleRedirectLink": "https://1078.set.qureka.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/f9f4d346-cd9f-46e1-a3ce-b10bb20f3d29.png",
-          "CircleRedirectLink":"https://1078.set.qureka.com/"
+          "CircleRedirectLink": "https://1078.set.qureka.com/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/dbd80ca5-7a76-4b35-90e8-d0cd5c94a636.png",
-          "CircleRedirectLink":"https://1078.set.qureka.com/"
+          "CircleRedirectLink": "https://1078.set.qureka.com/"
         }
       ]
    }

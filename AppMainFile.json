@@ -3,7 +3,7 @@
       "TODO:- 1)if ADS fail then redirect on URL, 2)if write Google then only show ads no URL show": "notUse",
       "AD_Priority_ADS/URL": "ADS",
     
-      "AD_Priority_Google_Applovin": "google",
+      "AD_Priority_Google_Applovin": "applovin",
   
       "AppVersion_Update" : "1.0",  
     

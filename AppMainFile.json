@@ -1,17 +1,17 @@
 {
-  "data" :  {
-      "TODO:- 1)if ADS fail then redirect on URL, 2)if write Google then only show ads no URL show" : "",
+  "data":  {
+      "TODO:- 1)if ADS fail then redirect on URL, 2)if write Google then only show ads no URL show": "notUse",
       "AD_Priority_ADS/URL": "ADS",
     
       "AD_Priority_Google_Applovin": "google",
   
       "AppVersion_Update" : "1.0",  
     
-      "AdsOnOff": "off",  
-      "DialogBoxAds_OnOff" : "off",  
-      "DialogBox_InterAds_OnOff" : "off",  
-      "BannerAds_OnOff" : "off",  
-      "BackButtonAds_OnOff": "off",  
+      "AdsOnOff": "on",  
+      "DialogBoxAds_OnOff" : "on",  
+      "DialogBox_InterAds_OnOff" : "on",  
+      "BannerAds_OnOff" : "on",  
+      "BackButtonAds_OnOff": "on",  
     
       "Video30_and_InterAd" : "interad",  
       

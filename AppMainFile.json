@@ -107,6 +107,45 @@
           "CircleLink": "https://static.gamezop.com/creatives/dbd80ca5-7a76-4b35-90e8-d0cd5c94a636.png",
           "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
         }
-      ]
-   }
+      ],
+
+    //AppData's
+    "SignUp_BonousCoins": "50",
+    
+    "Share_Friends_PerDay": "3",
+    "ShareRewardCoins": "150",
+    
+    "ReferralRewardCoins": "5000",
+    
+    "DailyCheck_in_X": "50",
+    
+    "Watch30AdRewardCoins": "60",
+    
+    "GameRewardCoins": "75",
+    "QuizRewardCoins": "85",
+    
+    "LinkTime_Minute": "1",
+    
+    "GameAccountID": "6Cq0LIfxZ",
+    
+    "InActivity_Delay_miliSec": "30000",
+    "Total_Game_Time_Minute": "2",
+    "Min_Reward": "10",
+    "Max_Reward": "150",
+    
+    "BaseUrl": "https://play2wingame.000webhostapp.com/",
+    "SignUp": "SignUp.php",
+    "Login": "Login.php",
+    "ForgotPassword": "ForgotPassword.php",
+    "UpdateProfile": "UpdateProfile.php",
+    "Bonus.php":"Bonus.php",
+    "CoinsUpdate": "CoinsUpdate.php",
+    "CheckInUpdate": "CheckInUpdate.php",
+    "RetriveCheckIn": "RetriveCheckIn.php",
+    "AddCoinsHistory": "AddCoinsHistory",
+    "RetrieveCoinHistory": "RetrieveCoinHistory.php",
+    "ReferralValidation": "ReferralValidation.php",
+    "Ranking": "Ranking.php",
+    "GiftVoucher": "GiftVoucher.php"
+  }
 }

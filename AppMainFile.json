@@ -86,7 +86,7 @@
     "CoinsUpdate": "CoinsUpdate.php",
     "CheckInUpdate": "CheckInUpdate.php",
     "RetriveCheckIn": "RetriveCheckIn.php",
-    "AddCoinsHistory": "AddCoinsHistory",
+    "AddCoinsHistory": "AddCoinsHistory.php",
     "RetrieveCoinHistory": "RetrieveCoinHistory.php",
     "ReferralValidation": "ReferralValidation.php",
     "Ranking": "Ranking.php",

@@ -15,9 +15,9 @@
     
       "Video30_and_InterAd" : "interad",  
       
-      "InterAd_Interval" : "3000",  
-      "VideoAd_Interval" : "3000", 
-      "Video30Ad_Interval": "3000", 
+      "InterAd_Interval" : "100",  
+      "VideoAd_Interval" : "100", 
+      "Video30Ad_Interval": "100", 
     
       "TransferBox_OnOff": "off",  
       "TransferBox_AppPackageName": "orbut.vpn.secure.proxy", 

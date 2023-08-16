@@ -24,8 +24,8 @@
     
       "RecycleAds_Position": "4", 
     
-      "email": "venturescope69@gmail.com",  
-      "privacy_link": "https://sites.google.com/view/orbutvpn/policy",  
+      "Email": "venturescope69@gmail.com",  
+      "PrivacyLink": "https://sites.google.com/view/orbutvpn/policy",  
     
       "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
       "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
@@ -50,7 +50,7 @@
       "AtmeId": "https://u.theaddnews.com/zturtle/",
       
       "ShowFirstDirect_OnOff": "on",
-      "ShowFirstUrlDirect": "https://u.theaddnews.com/zturtle/",
+      "ShowFirstLink": "https://u.theaddnews.com/zturtle/",
       
       "AppBanner": 
       [

@@ -82,7 +82,7 @@
     "Login": "Login.php",
     "ForgotPassword": "ForgotPassword.php",
     "UpdateProfile": "UpdateProfile.php",
-    "Bonus.php": "Bonus.php",
+    "Bonus": "Bonus.php",
     "CoinsUpdate": "CoinsUpdate.php",
     "CheckInUpdate": "CheckInUpdate.php",
     "RetriveCheckIn": "RetriveCheckIn.php",

@@ -5,7 +5,7 @@
     
       "Google_or_Applovin": "applovin",
   
-      "AppVersion_Update" : "2.0",  
+      "AppVersion_Update" : "1.0",  
     
       "AdsOnOff": "off",  
       "DialogBoxAds_OnOff" : "on",  
@@ -19,7 +19,7 @@
       "VideoAd_Interval" : "100", 
       "Video30Ad_Interval": "100", 
     
-      "TransferBox_OnOff": "off",  
+      "TransferBox_OnOff": "on",  
       "TransferBox_AppPackageName": "orbut.vpn.secure.proxy", 
     
       "RecycleAds_Position": "4", 

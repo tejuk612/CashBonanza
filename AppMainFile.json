@@ -7,7 +7,7 @@
   
       "AppVersion_Update" : "1.0",  
     
-      "AdsOnOff": "on",  
+      "AdsOnOff": "off",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "on",  
       "BannerAds_OnOff" : "on",  
@@ -30,7 +30,7 @@
       "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
       "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
       "VideoInterAd_Id": "ca-app-pub-3940256099942544/8691691433",
-      "NativeAd_Id": "/22859692361/Raju-578432-612",
+      "NativeAd_Id": "ca-app-pub-3940256099942544/10449601152",
       "NativeAd_Id1": "ca-app-pub-3940256099942544/1044960115",
       "VideoAd30_Id": "ca-app-pub-3940256099942544/5224354917",
       "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",

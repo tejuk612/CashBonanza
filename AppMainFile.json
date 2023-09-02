@@ -3,11 +3,11 @@
       "TODO:- 1)if ADS fail then redirect on URL, 2)if write Google then only show ads no URL show": "notUse",
       "Ads_or_Url": "ADS",
     
-      "Google_or_Applovin": "applovin",
+      "Google_or_Applovin": "google",
   
       "AppVersion_Update" : "1.0",  
     
-      "AdsOnOff": "off",  
+      "AdsOnOff": "on",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "on",  
       "BannerAds_OnOff" : "on",  
@@ -27,12 +27,12 @@
       "Email": "cashrumble.uk@gmail.com",  
       "PrivacyLink": "https://play2wingame.000webhostapp.com/privacy.txt",  
     
-      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
-      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
-      "VideoInterAd_Id": "ca-app-pub-3940256099942544/8691691433",
-      "NativeAd_Id": "ca-app-pub-3940256099942544/10449601152",
-      "NativeAd_Id1": "ca-app-pub-3940256099942544/1044960115",
-      "VideoAd30_Id": "ca-app-pub-3940256099942544/5224354917",
+      "BannerAd_Id": "/22859692361/7767930852",
+      "InterAd_Id": "/22859692361/Inter-7767930852",
+      "VideoInterAd_Id": "/22859692361/Inter-7767930852",
+      "NativeAd_Id": "/22859692361/native-7767930852",
+      "NativeAd_Id1": "/22859692361/native-7767930852",
+      "VideoAd30_Id": "/22859692361/video-7767930852",
       "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
       
       "BannerAd_Id_Applovin": "b31e65ff75369541",

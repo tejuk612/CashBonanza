@@ -47,9 +47,9 @@
       "VideoAd_Id_Applovin": "39d47c878f9ea081",
       "AppOpen_Id_Applovin": "fed32e2504cb26c7",
 
-        "demos":"gamezop/gameskite/quizzop",
-    
+      "demos":"gamezop/gameskite/quizzop",
       "OpenGames": "gamezop",
+      "Block": "on",  
     
       "GamezopId": "https://7549.play.gamezop.com/",
       "QurekaID": "https://1080.game.qureka.com/",

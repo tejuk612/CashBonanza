@@ -49,7 +49,7 @@
 
       "demos":"gamezop/gameskite/quizzop",
       "OpenGames": "gamezop",
-      "Block": "on",  
+      "Block": "off",  
     
       "GamezopId": "https://7549.play.gamezop.com/",
       "QurekaID": "https://1080.game.qureka.com/",

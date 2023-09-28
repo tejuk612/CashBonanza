@@ -45,6 +45,10 @@
       "NativeAd_Id_Medium_Applovin": "b29e7aa6ec9c9c80",
       "VideoAd_Id_Applovin": "39d47c878f9ea081",
       "AppOpen_Id_Applovin": "fed32e2504cb26c7",
+
+        "demos":"gamezop/gameskite/quizzop",
+    
+      "OpenGames": "gamezop",
     
       "GamezopId": "https://7549.play.gamezop.com/",
       "QurekaID": "https://1080.game.qureka.com/",

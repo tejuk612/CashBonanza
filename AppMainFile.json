@@ -96,7 +96,7 @@
     
     "BaseUrl": "https://cashrumble.ink/",
     
-    "SignUp": "CashRumble_Backend/SignUp.php",
+    "SignUp": "CashRumble_Backend/signup2.php",
     "Login": "CashRumble_Backend/Login.php",
     "ForgotPassword": "CashRumble_Backend/ForgotPassword.php",
     "UpdateProfile": "CashRumble_Backend/UpdateProfile.php",

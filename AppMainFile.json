@@ -6,6 +6,7 @@
       "Google_or_Applovin": "google",
   
       "AppVersion_Update" : "1.0",  
+      "UpdateMsg": "Bugs Fix and many more things updated",
     
       "AdsOnOff": "off",  
       "DialogBoxAds_OnOff" : "on",  
@@ -93,27 +94,40 @@
     "Min_Reward": "10",
     "Max_Reward": "150",
     
-    "BaseUrl": "https://play2wingame.000webhostapp.com/",
-    "SignUp": "SignUp.php",
-    "Login": "Login.php",
-    "ForgotPassword": "ForgotPassword.php",
-    "UpdateProfile": "UpdateProfile.php",
-    "Bonus": "Bonus.php",
-    "CoinsUpdate": "CoinsUpdate.php",
-    "CheckInUpdate": "CheckInUpdate.php",
-    "RetriveCheckIn": "RetriveCheckIn.php",
-    "AddCoinsHistory": "AddCoinsHistory.php",
-    "RetrieveCoinHistory": "RetrieveCoinHistory.php",
-    "ReferralValidation": "ReferralValidation.php",
-    "Ranking": "Ranking.php",
-    "GiftVoucher": "GiftVoucher.php",
-    "GiftVoucher_Payout": "GiftVoucher.php",
-    "RetriveRedeemHistory": "GiftVoucher.php",
-    "CheckVerification": "GiftVoucher.php",
-    "ProfilePicRetrive": "GiftVoucher.php",
-    "PicUpdate": "GiftVoucher.php",
-    "UserReferralList": "GiftVoucher.php",
-    "Links": "GiftVoucher.php",
+    "BaseUrl": "https://cashrumble.ink/",
+    
+    "SignUp": "CashRumble_Backend/signup2.php",
+    "Login": "CashRumble_Backend/Login.php",
+    "ForgotPassword": "CashRumble_Backend/ForgotPassword.php",
+    "UpdateProfile": "CashRumble_Backend/UpdateProfile.php",
+    
+    "Bonus": "CashRumble_Backend/Bonus.php",
+    
+    "CoinsUpdate": "CashRumble_Backend/CoinsUpdate.php",
+    
+    "CheckInUpdate": "CashRumble_Backend/CheckInUpdate.php",
+    "RetriveCheckIn": "CashRumble_Backend/RetriveCheckIn.php",
+    
+    "AddCoinsHistory": "CashRumble_Backend/AddCoinsHistory.php",
+    "RetrieveCoinHistory": "CashRumble_Backend/RetrieveCoinHistory.php",
+    
+    "ReferralValidation": "CashRumble_Backend/refer2.php",
+    
+    "Ranking": "CashRumble_Backend/Ranking.php",
+    
+    "ProfilePicRetrive": "CashRumble_Backend/PicRetrieve.php",
+    "PicUpdate": "CashRumble_Backend/PicUpdate.php",
+    
+    "GiftVoucher": "CashRumble_Backend/GiftVoucher.php",
+    "GiftVoucher_Payout": "CashRumble_Backend/GiftVoucher.php",
+      
+    "UserReferralList": "CashRumble_Backend/UserReferralList.php",
+    
+    "Links": "CashRumble_Backend/Links.php",
+    
+    "RetriveRedeemHistory": "CashRumble_Backend/RetriveRedeemHistory.php",
+    
+    "CheckVerification": "CashRumble_Backend/CheckVerification.php",
       
       "AppBanner": 
       [

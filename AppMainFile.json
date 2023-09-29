@@ -7,6 +7,8 @@
   
       "AppVersion_Update" : "1.1",  
       "UpdateMsg": "Bugs Fix and many more things updated",
+
+      "Gamezop_or_Gameskite": "gamezop",  
     
       "AdsOnOff": "off",  
       "DialogBoxAds_OnOff" : "on",  
@@ -102,6 +104,8 @@
     "UpdateProfile": "CashRumble_Backend/UpdateProfile.php",
     
     "Bonus": "CashRumble_Backend/Bonus.php",
+
+     "GamezopGames": "CashRumble_Backend/GamesKite.php",
     
     "CoinsUpdate": "CashRumble_Backend/CoinsUpdate.php",
     

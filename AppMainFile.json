@@ -53,11 +53,11 @@
       "OpenGames": "gamezop",
       "Block": "off",  
     
-      "GamezopId": "https://7549.play.gamezop.com/",
-      "QurekaID": "https://1080.game.qureka.com/",
-      "GamesKitesID": "https://cashrumble.freakxapps.com/",
-      "PredchmpId": "https://1080.game.predchamp.com/",
-      "AtmeId": "https://7563.play.quizzop.com/",
+      "GamezopId": "https://7549.play.gamezop.com",
+      "QurekaID": "https://1080.game.qureka.com",
+      "GamesKitesID": "https://cashrumble.freakxapps.com",
+      "PredchmpId": "https://1080.game.predchamp.com",
+      "AtmeId": "https://7563.play.quizzop.com",
       
       "ShowFirstDirect_OnOff": "off",
       "ShowFirstLink": "https://u.theaddnews.com/zturtle/",

@@ -88,14 +88,14 @@
     "GameRewardCoins": "not use",
     "QuizRewardCoins": "not use",
     
-    "LinkTime_Minute": "1",
+    "LinkTime_Minute": "1 _notuse",
     
     "GameAccountID": "7549",
     
-    "InActivity_Delay_miliSec": "30000",
-    "Total_Game_Time_Minute": "1",
-    "Min_Reward": "10",
-    "Max_Reward": "150",
+    "InActivity_Delay_miliSec": "15000",
+    "Total_Game_Time_Minute": "5",
+    "Min_Reward": "150",
+    "Max_Reward": "200",
     
     "BaseUrl": "https://cashrumble.ink/",
     

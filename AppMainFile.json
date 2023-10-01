@@ -3,15 +3,15 @@
       "TODO:- 1)if ADS fail then redirect on URL, 2)if write Google then only show ads no URL show": "notUse",
       "Ads_or_Url": "ADS",
     
-      "Google_or_Applovin": "google",
+      "Google_or_Applovin": "applovin",
   
-      "AppVersion_Update" : "1.3",  
+      "AppVersion_Update" : "1.4",  
       "UpdateMsg": "Bugs Fix and many more things updated",
 
       "Gamezop_or_Gameskite": "gamezop",  
       "OpenGames_OnOff" : "off",  
     
-      "AdsOnOff": "off",  
+      "AdsOnOff": "on",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "on",  
       "BannerAds_OnOff" : "on",  
@@ -28,7 +28,7 @@
     
       "RecycleAds_Position": "4", 
     
-      "Email": "cashrumble.uk@gmail.com",  
+      "Email": "contact@cashrumble.ink",  
       "PrivacyLink": "https://play2wingame.000webhostapp.com/privacy.txt",  
       "TermsLink": "https://play2wingame.000webhostapp.com/privacy.txt",  
       "ContactLink": "https://play2wingame.000webhostapp.com/privacy.txt", 

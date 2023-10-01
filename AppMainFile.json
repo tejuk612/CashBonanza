@@ -71,8 +71,8 @@
     
     "SpinCount": "10",
     
-    "TimerTime_MilliSecond": "120000",
-    "TimerCoins": "250",
+    "TimerTime_MilliSecond": "600000",
+    "TimerCoins": "199",
 
     "SignUp_BonousCoins": "500",
     

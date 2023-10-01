@@ -124,7 +124,7 @@
     "PicUpdate": "CashRumble_Backend/PicUpdate.php",
     
     "GiftVoucher": "CashRumble_Backend/GiftVoucher.php",
-    "GiftVoucher_Payout": "CashRumble_Backend/GiftVoucher.php",
+    "GiftVoucher_Payout": "CashRumble_Backend/GiftVoucher_Payout.php",
       
     "UserReferralList": "CashRumble_Backend/UserReferralList.php",
     

@@ -8,8 +8,8 @@
       "AppVersion_Update" : "1.4",  
       "UpdateMsg": "Bugs Fix and many more things updated",
 
-      "Gamezop_or_Gameskite": "gamezop",  
-      "OpenGames_OnOff" : "off",  
+      "Gamezop_or_Gameskite": "gameskite",  
+      "OpenGames_OnOff" : "on",  
     
       "AdsOnOff": "on",  
       "DialogBoxAds_OnOff" : "on",  
@@ -56,7 +56,7 @@
     
       "GamezopId": "https://7549.play.gamezop.com/",
       "QurekaID": "https://1080.game.qureka.com/",
-      "GamesKitesID": "https://cashrumble.freakxapps.com/",
+      "GamesKitesID": "https://cashrumble.freakxapps.com/?&lang=0",
       "PredchmpId": "https://1080.game.predchamp.com/",
       "AtmeId": "https://7563.play.quizzop.com/",
       

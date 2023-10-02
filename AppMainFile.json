@@ -8,7 +8,7 @@
       "AppVersion_Update" : "1.4",  
       "UpdateMsg": "Bugs Fix and many more things updated",
 
-      "Gamezop_or_Gameskite": "gameskite",  
+      "Gamezop_or_Gameskite": "gamezop",  
       "OpenGames_OnOff" : "on",  
     
       "AdsOnOff": "on",  
@@ -51,7 +51,7 @@
       "AppOpen_Id_Applovin": "fed32e2504cb26c7",
 
       "demos":"gamezop/gameskite/quizzop",
-      "OpenGames": "gamezop",
+      "OpenGames": "gameskite",
       "Block": "on",  
     
       "GamezopId": "https://7549.play.gamezop.com/",

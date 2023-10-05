@@ -9,7 +9,11 @@
       "UpdateMsg": "Bugs Fix and many more things updated",
 
       "Gamezop_or_Gameskite": "gamezop",  
-      "OpenGames_OnOff" : "on",  
+    
+      "demos":"gamezop/gameskite/quizzop",
+      "OpenGames_OnOff": "on",  
+      "OpenGames": "gamezop",
+      "Block": "on",  
     
       "AdsOnOff": "on",  
       "DialogBoxAds_OnOff" : "on",  
@@ -49,10 +53,6 @@
       "NativeAd_Id_Medium_Applovin": "b29e7aa6ec9c9c80",
       "VideoAd_Id_Applovin": "39d47c878f9ea081",
       "AppOpen_Id_Applovin": "fed32e2504cb26c7",
-
-      "demos":"gamezop/gameskite/quizzop",
-      "OpenGames": "gamezop",
-      "Block": "on",  
     
       "GamezopId": "https://7549.play.gamezop.com/en",
       "QurekaID": "https://1080.game.qureka.com/",
@@ -69,10 +69,10 @@
     
     "Minimum_CashAmount": "251",
     
-    "SpinCount": "10",
+    "SpinCount": "5",
     
     "TimerTime_MilliSecond": "600000",
-    "TimerCoins": "300",
+    "TimerCoins": "200",
 
     "SignUp_BonousCoins": "500",
     
@@ -83,7 +83,7 @@
     
     "DailyCheck_in_X": "50",
     
-    "Watch30AdRewardCoins": "100",
+    "Watch30AdRewardCoins": "45",
     
     "GameRewardCoins": "not use",
     "QuizRewardCoins": "not use",

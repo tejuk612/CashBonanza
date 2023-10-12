@@ -69,21 +69,21 @@
     
     "Minimum_CashAmount": "251",
     
-    "SpinCount": "5",
+    "SpinCount": "3",
     
     "TimerTime_MilliSecond": "600000",
-    "TimerCoins": "200",
+    "TimerCoins": "100",
 
     "SignUp_BonousCoins": "500",
     
     "Share_Friends_PerDay": "3",
-    "ShareRewardCoins": "150",
+    "ShareRewardCoins": "100",
     
     "ReferralRewardCoins": "2500",
     
-    "DailyCheck_in_X": "50",
+    "DailyCheck_in_X": "20",
     
-    "Watch30AdRewardCoins": "45",
+    "Watch30AdRewardCoins": "30",
     
     "GameRewardCoins": "not use",
     "QuizRewardCoins": "not use",

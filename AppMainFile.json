@@ -8,13 +8,13 @@
       "AppVersion_Update" : "1.4",  
       "UpdateMsg": "Bugs Fix and many more things updated",
 
-      "OnlyGames_OnOff": "off",  
+      "OnlyGames_OnOff": "on",  
       
       "Gamezop_or_Gameskite": "gamezop",  
     
     
       "demos":"gamezop/gameskite/quizzop",
-      "OpenGames_OnOff": "off",  
+      "OpenGames_OnOff": "on",  
       "OpenGames": "gameskite",
       "Block": "on",  
     

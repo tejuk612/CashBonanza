@@ -96,9 +96,9 @@
     "GameAccountID": "7549",
     
     "InActivity_Delay_miliSec": "15000",
-    "Total_Game_Time_Minute": "5",
-    "Min_Reward": "150",
-    "Max_Reward": "200",
+    "Total_Game_Time_Minute": "2.5",
+    "Min_Reward": "100",
+    "Max_Reward": "150",
     
     "BaseUrl": "https://cashrumble.ink/",
     

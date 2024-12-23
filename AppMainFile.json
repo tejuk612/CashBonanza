@@ -100,7 +100,8 @@
     "Min_Reward": "50",
     "Max_Reward": "80",
     
-    "BaseUrl": "https://cashrumble.ink/",
+    "BaseUrl_NotUseNow": "https://cashrumble.ink/",
+    "BaseUrl": "https://cashrumble-ink.stackstaging.com/",
     
     "SignUp": "CashRumble_Backend/signup2.php",
     "Login": "CashRumble_Backend/Login.php",

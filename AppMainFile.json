@@ -3,7 +3,7 @@
       "TODO:- 1)if ADS fail then redirect on URL, 2)if write Google then only show ads no URL show": "notUse",
       "Ads_or_Url": "ADS",
     
-      "Google_or_Applovin": "applovin",
+      "Google_or_Applovin": "google",
   
       "AppVersion_Update" : "1.6",  
       "UpdateMsg": "Bugs Fix and many more things updated",
@@ -41,13 +41,13 @@
       "ContactLink": "https://cashrumble-ink.stackstaging.com/contact.html", 
       "DeleteLink": "https://cashrumble-ink.stackstaging.com/contact.html", 
     
-      "BannerAd_Id": "/22994844347/cashrumble_banner_id",
-      "InterAd_Id": "ca-app-pub-1092196_TEJAS_577597060/5487710602",
-      "VideoInterAd_Id": "ca-app-pub-10_TEJAS_92196577597060/9902394491",
-      "NativeAd_Id": "ca-app-pub-109219_TEJAS_6577597060/9125619008",
-      "NativeAd_Id1": "ca-app-pub-109219_TEJAS_6577597060/9808145289",
-      "VideoAd30_Id": "ca-app-pub-10921965_TEJAS_77597060/4587608191",
-      "AppOpenAd_Id": "ca-app-pub-109219_TEJAS_6577597060/5186373996",
+      "BannerAd_Id": "ca-app-pub-3940256099942544/9214589741",
+      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
+      "VideoInterAd_Id": "ca-app-pub-3940256099942544/5354046379",
+      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
+      "NativeAd_Id1": "ca-app-pub-3940256099942544/1044960115",
+      "VideoAd30_Id": "ca-app-pub-3940256099942544/5224354917",
+      "AppOpenAd_Id": "ca-app-pub-3940256099942544/9257395921",
       
       "BannerAd_Id_Applovin": "b31e65ff75369541",
       "MrecAd_Id_Applovin": "1e2ddaffc77ba137",
